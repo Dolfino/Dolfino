@@ -220,4 +220,9 @@ https://carbon.now.sh/ -->
 <a href="https://www.instagram.com/davidn.silva/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="joetancy" height="40" width="40" /></a>
 </p>
 
+### 📚 Blog posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ---
