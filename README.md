@@ -61,7 +61,7 @@ Can help with your open source project, connect you with great tech communities 
 <div style="text-align: right"> <h3> 
 Let's talk! <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> </em><h3/> </div>
   
-## What I want to do next 🤔
+<h2>🛠 Tech Stack</h2>
   
   
 <div class="row">
