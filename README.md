@@ -1,5 +1,3 @@
-
-
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px">, I'm David Silva <div img src="https://www.linkedin.com/in/marketing-administrador-davidnsilva/"style="text-align: right"> <h4>@dolfino<h4/> </div></h1>
   
 <div class="row">
@@ -52,7 +50,6 @@ I love Star Trek | Star War and all have Star ⭐</p>
 - Graduated in Administration from the Federal University of Fortaleza - UFC
   </div>
 </div>
-
 
 <div style="text-align: right"> <h4> 
 💬 And I also... <br> 
@@ -142,7 +139,6 @@ Let's talk! <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif
 </div>
   
 <br/>
-  
 
 <div class="row">
   <div class="col-md-6" markdown="1">
@@ -194,8 +190,6 @@ Let's talk! <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif
 </div>
   
 <br/>
-  
-
 
 <!-- TO make screenshot of your code, copy below link:
 https://carbon.now.sh/ -->
@@ -203,16 +197,16 @@ https://carbon.now.sh/ -->
 ### My latest projects
 
 <a href="https://github.com/WEGFan/codestats-profile-readme">
-  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=WEGFan&repo=codestats-profile-readme" alt="codestats-profile-readme" />
+  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=Dolfino&repo=blog-post-workflow" alt="blog-post-workflow" />
 </a>
 <a href="https://github.com/WEGFan/Geometry-Dash-Menu-Music-Randomizer">
-  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=WEGFan&repo=Geometry-Dash-Menu-Music-Randomizer" alt="Geometry-Dash-Menu-Music-Randomizer" />
+  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=Dolfino&repo=simple-static-website" alt="simple-static-website" />
 </a>
 
 ### Recently I'm coding in...
 
-<a href="https://codestats.net/users/WEGFan">
-  <img src='https://codestats-readme.wegfan.cn/history-graph/WEGFan?width=850&height=300&timezone=08:00&history_days=21&max_languages=9&language_colors=["3e4053","f15854","5da5da","faa43a","60bd68","f17cb0","b2912f","decf3f","b276b2","808080"]' alt="WEGFan's Code::Stats history graph" />
+<a href="https://codestats.net/users/Dolfino">
+  <img src='https://codestats-readme.wegfan.cn/history-graph/Dolfino?width=850&height=300&timezone=08:00&history_days=21&max_languages=9&language_colors=["3e4053","f15854","5da5da","faa43a","60bd68","f17cb0","b2912f","decf3f","b276b2","808080"]' alt="Dolfino Code::Stats history graph" />
 </a>
 
 <br/>
